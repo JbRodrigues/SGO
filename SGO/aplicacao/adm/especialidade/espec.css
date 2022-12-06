@@ -1,0 +1,13 @@
+.centerDivTabela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.espectContainer{
+    width: 95vw;
+    height: auto;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    flex-direction: row;
+}

@@ -1,0 +1,40 @@
+#btnBusca {
+  width: 10rem;
+  height: 3rem;
+}
+
+.inputBusca{
+    height: 3rem;
+    width: 65vw;
+    padding-left: .3rem;
+}
+
+.centerDivTabela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#alterar{
+  color: red;
+}
+
+#delete{
+  color: blue;
+}
+
+#novoExame{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+
+.containerExame{
+  margin-left: 1rem;  
+}
+
+.exameButtons{
+ width: 100vw;
+ margin-right: 1rem;
+}

@@ -1,2 +1,2 @@
-# SGO
+# SGO - Saúde
 Sistema de Gerenciamento Online
